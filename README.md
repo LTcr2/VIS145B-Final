@@ -1,4 +1,4 @@
-#VIS145B_Final: UniSketch
+VIS145B_Final: UniSketch
 
 Made in Spring of 2016 at the University of California, San Diego.
 
