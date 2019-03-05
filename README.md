@@ -1,3 +1,5 @@
+#VIS145B_Final: UniSketch
+
 Made in Spring of 2016 at the University of California, San Diego.
 
 As a final project, with little to no experience in coding, I wrote a program that would result in a collaborative drawing between human and machine. The prompt was to create a program that would work towards a goal, but change the path to the goal over time with user input.
